@@ -1,0 +1,35 @@
+{
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-android-support-v4/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Toniton"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-android-support-v4",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin to add android-support-v4.jar to Cordova/PhoneGap project",
+  "homepage": "https://github.com/toniton/cordova-plugin-android-support-v4/blob/master/README.md",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "google",
+    "android",
+    "support",
+    "v4"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-android-support-v4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toniton/cordova-plugin-android-support-v4.git"
+  },
+  "version": "21.0.1"
+}
